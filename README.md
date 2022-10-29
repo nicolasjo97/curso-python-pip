@@ -4,7 +4,7 @@
 
 Para correr el juego debes seguir estas intrucciones en la terminal:
 
-´´´sh
+```sh
 cd game
 python3 game.py
-´´´
+```
